@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Event4ContPage.UserPage" BackgroundColor="YellowGreen" Title="Create Account">
+    <ContentPage.Content>
+        <StackLayout >
+           <StackLayout Orientation="Horizontal">
+
+                <Label x:Name="lblUserName" Text="Create UserName:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+            <Entry x:Name="etTypeUser" Placeholder="Username"  />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+            
+            <Label x:Name="lblPassword" Text="Create Password:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+            <Entry x:Name="etUserPassword" Placeholder="Password" FontSize="Medium"/>
+            
+        </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+
+                <Label x:Name="lblfullname" Text="Full Name:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+                <Entry x:Name="etUtypeN" Placeholder="Type Name" FontSize="Medium"/>
+
+            </StackLayout>
+            
+
+            <StackLayout Orientation="Horizontal">
+
+                <Label x:Name="lblEmail" Text="Email ID:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+                <Entry x:Name="etUid" Placeholder="Type Email ID" FontSize="Medium"/>
+
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+            <Label x:Name="lblPhone" Text="Type Phone No:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+            <Entry x:Name="etnumber" Placeholder="Type PhoneNo" FontSize="Medium"/>
+                
+        </StackLayout>
+
+        <Button x:Name="btngo" Text="GO" VerticalOptions="CenterAndExpand" TextColor="white" BackgroundColor="BurlyWood" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

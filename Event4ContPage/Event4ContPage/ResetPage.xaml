@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Event4ContPage.ResetPage" BackgroundColor="YellowGreen">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+                <Label x:Name="lblES" Text="Type username:" FontSize="Medium" Margin="20,100,0,0"  VerticalOptions="Center"/>
+                <Entry x:Name="etRy" Placeholder="Username" FontSize="Medium"  Margin="0,100,0,0"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lblNa" Text="New Password:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+                    <Entry x:Name="etPe" Placeholder="Password" FontSize="Medium"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lbl" Text="ReType Password:" FontSize="Medium" Margin="20,0,0,0" VerticalOptions="Center"/>
+                    <Entry x:Name="et" Placeholder="Password" FontSize="Medium"/>
+                </StackLayout>
+
+            <Button x:Name="btnoon" Text="LoginAgain" VerticalOptions="CenterAndExpand" TextColor="white"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

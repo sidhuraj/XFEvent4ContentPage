@@ -1,0 +1,16 @@
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Event4ContPage.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\bin\Debug\netstandard2.0\Event4ContPage.deps.json
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\bin\Debug\netstandard2.0\Event4ContPage.dll
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\bin\Debug\netstandard2.0\ref\Event4ContPage.dll
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\bin\Debug\netstandard2.0\Event4ContPage.pdb
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Event4ContPage.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Event4ContPage.AssemblyInfo.cs
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Event4ContPage.dll
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\ref\Event4ContPage.dll
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Event4ContPage.pdb
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\Loginpage.xaml.g.cs
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\ResetPage.xaml.g.cs
+C:\Users\santosh\source\repos\Event4ContPage\Event4ContPage\Event4ContPage\obj\Debug\netstandard2.0\UserPage.xaml.g.cs
